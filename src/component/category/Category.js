@@ -23,7 +23,7 @@ const CategoryLayout = () => {
         <div className="logo" />
         {/* Add your header content here */}
       </Header>
-      <Content style={{ padding: '0 50px' }}>
+      <Content style={{ padding: '' }}>
         <div style={{ background: '#fff', padding: 24, minHeight: 280 }}>
           <Button
             type={selectedCategory === 'mobile' ? 'primary' : 'default'}

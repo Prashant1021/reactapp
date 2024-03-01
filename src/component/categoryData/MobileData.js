@@ -29,7 +29,6 @@ export const mobileData = [
   {
     name: "Samsung Galaxy Fold 4 ",
     price: " 244999",
-    price: "  244999",
     brand: "samsung",
     image:
       "https://www.samsungplaza.com.np/public/files/A0348FEA3A2654E-Fold-4--Beige.png",
@@ -57,7 +56,6 @@ export const mobileData = [
     name: "Motorola Moto G84 5G 256GB 12GB RAM",
 
     price: "  40799",
-    price: " 40799",
     brand: "samsung",
     image:
       "https://i.ebayimg.com/images/g/b2IAAOSwYYZlXiXR/s-l960.png",
