@@ -1,7 +1,7 @@
 export const mobileData = [
   {
     name: "Samsung Galaxy M04",
-    price: " Rs.15999",
+    price: " 15999",
     brand: "Samsung",
     image:
       "https://www.samsungplaza.com.np/public/files/C771DD0239E9436-M045.png",
@@ -14,7 +14,7 @@ export const mobileData = [
   },
   {
     name: "Samsung Galaxy M14 5G",
-    price: " Rs. 22999",
+    price: "  22999",
     brand: "samsung",
     image:
       "https://www.samsungplaza.com.np/public/files/DAC96CC92F3BC3F-M14-DarkBlue.png",
@@ -28,7 +28,7 @@ export const mobileData = [
   },
   {
     name: "Samsung Galaxy Fold 4 ",
-    price: " Rs. 244999",
+    price: " 244999",
     brand: "samsung",
     image:
       "https://www.samsungplaza.com.np/public/files/A0348FEA3A2654E-Fold-4--Beige.png",
@@ -41,7 +41,7 @@ export const mobileData = [
   },
   {
     name: "Samsung Galaxy A70",
-    price: " Rs. 40799",
+    price: "  40799",
     brand: "samsung",
     image:
       "https://www.samsungplaza.com.np/public/files/22E45B8468DC667-A70-White.png",
@@ -54,7 +54,7 @@ export const mobileData = [
   },
   {
     name: "Motorola Moto G84 5G 256GB 12GB RAM",
-    price: " Rs. 40799",
+    price: "  40799",
     brand: "samsung",
     image:
       "https://i.ebayimg.com/images/g/b2IAAOSwYYZlXiXR/s-l960.png",
@@ -67,7 +67,7 @@ export const mobileData = [
   },
   {
     name: "Apple iPhone 13 Pro Max - 1 TB - Gold",
-    price: " Rs.191,990",
+    price: " 191,990",
     brand: "samsung",
     image:
       "https://i.ebayimg.com/images/g/6U0AAOSwkw5iMjJg/s-l1600.jpg",
@@ -80,7 +80,7 @@ export const mobileData = [
   },
   {
     name: "Genuine Xiaomi Redmi Note 11T Pro 5G ",
-    price: " Rs. 25000",
+    price: "  25000",
     brand: "samsung",
     image:
       "https://i.ebayimg.com/images/g/jn0AAOSwIGBkZ1cQ/s-l960.jpg",
