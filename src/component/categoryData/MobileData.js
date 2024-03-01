@@ -28,7 +28,11 @@ export const mobileData = [
   },
   {
     name: "Samsung Galaxy Fold 4 ",
+<<<<<<< HEAD
     price: " 244999",
+=======
+    price: "  244999",
+>>>>>>> 3dc5c7aa0c779916db8766473bfef6bdd4ab141c
     brand: "samsung",
     image:
       "https://www.samsungplaza.com.np/public/files/A0348FEA3A2654E-Fold-4--Beige.png",
@@ -54,7 +58,11 @@ export const mobileData = [
   },
   {
     name: "Motorola Moto G84 5G 256GB 12GB RAM",
+<<<<<<< HEAD
     price: "  40799",
+=======
+    price: " 40799",
+>>>>>>> 3dc5c7aa0c779916db8766473bfef6bdd4ab141c
     brand: "samsung",
     image:
       "https://i.ebayimg.com/images/g/b2IAAOSwYYZlXiXR/s-l960.png",
@@ -93,7 +101,7 @@ export const mobileData = [
   },
   {
     name: "Origin Xiaomi Redmi 12R 5G Smartphone 6.79",
-    price: " Rs. 35000",
+    price: "  35000",
     brand: "samsung",
     image:
       "https://i.ebayimg.com/images/g/D6AAAOSw7gdljmlq/s-l1600.jpg",
